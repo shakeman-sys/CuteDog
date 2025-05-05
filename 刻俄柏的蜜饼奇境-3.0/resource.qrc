@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/sound"/>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>C:/Users/ling/Desktop/resource/image/Dog.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/forest.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/Pie.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/toadstool.png</file>
+        <file>C:/Users/ling/Desktop/resource/sound/ A WORLD FAMILIARLY UNKNOWN.wav</file>
+        <file>C:/Users/ling/Desktop/resource/image/bullet.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/boss.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/dogplus.png</file>
+        <file>C:/Users/ling/Desktop/resource/image/mon3tr.png</file>
+    </qresource>
+</RCC>
